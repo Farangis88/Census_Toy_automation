@@ -1,4 +1,3 @@
-Farrukh QA, [5/2/2023 7:53 PM]
 # Cencus Toy API
 
 
