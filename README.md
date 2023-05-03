@@ -1,5 +1,7 @@
 # Cencus Toy API
 
+# Why Pytest Framework 
+One of the primary reasons for my preference for the Pytest framework stems from its capability to deliver highly comprehensible and user-friendly reporting within the terminal. As an individual with extensive experience utilizing Pytest, I have consistently found its reporting format to be remarkably clear and easy to understand. Furthermore, Pytest has proven to be a dependable choice for both test reporting and code execution, especially in comparison to Javascript. The abundance of available libraries within the Pytest ecosystem has also played a crucial role in solidifying my decision to adopt this framework.
 
 # How to replicate the tests
 
