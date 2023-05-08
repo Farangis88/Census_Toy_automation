@@ -151,8 +151,6 @@ The following tests were conducted on the Census Toy API service:
 
 ### Test: test_top_parameter_with_invalid_action_type
 
-Farrukh QA, [5/2/2023 7:53 PM]
-
 `Description:` This test checks if the API returns a 400 Bad Request status code when the "top" parameter is used with an invalid action type.
 
 `Result:` FAILED
